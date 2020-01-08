@@ -10,8 +10,8 @@ public class GameManager : MonoBehaviour
     public float m_EndDelay = 3f;           
     public CameraControl m_CameraControl;   
     public Text m_MessageText;              
-    public GameObject m_TankPrefab;         
-    public TankManager[] m_Tanks;           
+    public GameObject m_TankPrefab;
+    public TankManager[] m_Tanks;
 
 
     private int m_RoundNumber;              
