@@ -1,0 +1,6105 @@
+fileFormatVersion: 2
+guid: 1cc8a85844ad9f04c845449b6e72c41a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8486847180410651731
+    second: explosions_sheet-clouds_1_removed_black_0
+  - first:
+      213: -1759049842851737867
+    second: explosions_sheet-clouds_1_removed_black_1
+  - first:
+      213: 2139637453976623365
+    second: explosions_sheet-clouds_1_removed_black_2
+  - first:
+      213: -7403432170974784071
+    second: explosions_sheet-clouds_1_removed_black_3
+  - first:
+      213: 7830180366815629180
+    second: explosions_sheet-clouds_1_removed_black_4
+  - first:
+      213: 5624613936644758681
+    second: explosions_sheet-clouds_1_removed_black_5
+  - first:
+      213: 1103622927125541911
+    second: explosions_sheet-clouds_1_removed_black_6
+  - first:
+      213: 4747662651062457647
+    second: explosions_sheet-clouds_1_removed_black_7
+  - first:
+      213: 5670693943038975080
+    second: explosions_sheet-clouds_1_removed_black_8
+  - first:
+      213: -3484685823512858147
+    second: explosions_sheet-clouds_1_removed_black_9
+  - first:
+      213: 7355550236351855949
+    second: explosions_sheet-clouds_1_removed_black_10
+  - first:
+      213: -2875224919112564449
+    second: explosions_sheet-clouds_1_removed_black_11
+  - first:
+      213: -3815878621503521254
+    second: explosions_sheet-clouds_1_removed_black_12
+  - first:
+      213: 7273297496679497168
+    second: explosions_sheet-clouds_1_removed_black_13
+  - first:
+      213: 36888020985723670
+    second: explosions_sheet-clouds_1_removed_black_14
+  - first:
+      213: -5550166754853923275
+    second: explosions_sheet-clouds_1_removed_black_15
+  - first:
+      213: -4153855375180340999
+    second: explosions_sheet-clouds_1_removed_black_16
+  - first:
+      213: -943407292338819796
+    second: explosions_sheet-clouds_1_removed_black_17
+  - first:
+      213: -3090364917524970650
+    second: explosions_sheet-clouds_1_removed_black_18
+  - first:
+      213: -8950980441255378454
+    second: explosions_sheet-clouds_1_removed_black_19
+  - first:
+      213: 2454051909215765701
+    second: explosions_sheet-clouds_1_removed_black_20
+  - first:
+      213: 9062691856280352959
+    second: explosions_sheet-clouds_1_removed_black_21
+  - first:
+      213: 5043074703910733894
+    second: explosions_sheet-clouds_1_removed_black_22
+  - first:
+      213: -6251114174867180686
+    second: explosions_sheet-clouds_1_removed_black_23
+  - first:
+      213: -5514493407675235192
+    second: explosions_sheet-clouds_1_removed_black_24
+  - first:
+      213: -7145789597625026523
+    second: explosions_sheet-clouds_1_removed_black_25
+  - first:
+      213: -4390208107722598941
+    second: explosions_sheet-clouds_1_removed_black_26
+  - first:
+      213: -2905158153490699416
+    second: explosions_sheet-clouds_1_removed_black_27
+  - first:
+      213: 2314440465449560972
+    second: explosions_sheet-clouds_1_removed_black_28
+  - first:
+      213: -1927495741935792057
+    second: explosions_sheet-clouds_1_removed_black_29
+  - first:
+      213: -7634023881304226078
+    second: explosions_sheet-clouds_1_removed_black_30
+  - first:
+      213: 9218956592062776351
+    second: explosions_sheet-clouds_1_removed_black_31
+  - first:
+      213: -7399896551767512989
+    second: explosions_sheet-clouds_1_removed_black_32
+  - first:
+      213: -1866215146870026673
+    second: explosions_sheet-clouds_1_removed_black_33
+  - first:
+      213: -3982209921563717935
+    second: explosions_sheet-clouds_1_removed_black_34
+  - first:
+      213: -1436053742789754208
+    second: explosions_sheet-clouds_1_removed_black_35
+  - first:
+      213: 5301678786034228835
+    second: explosions_sheet-clouds_1_removed_black_36
+  - first:
+      213: -1011859672906649698
+    second: explosions_sheet-clouds_1_removed_black_37
+  - first:
+      213: -7258929812123090258
+    second: explosions_sheet-clouds_1_removed_black_38
+  - first:
+      213: -484740168395072932
+    second: explosions_sheet-clouds_1_removed_black_39
+  - first:
+      213: -6367935494277922160
+    second: explosions_sheet-clouds_1_removed_black_40
+  - first:
+      213: -611464565872332903
+    second: explosions_sheet-clouds_1_removed_black_41
+  - first:
+      213: -1448190294024147211
+    second: explosions_sheet-clouds_1_removed_black_42
+  - first:
+      213: -6225580377455683898
+    second: explosions_sheet-clouds_1_removed_black_43
+  - first:
+      213: -6543046088654373486
+    second: explosions_sheet-clouds_1_removed_black_44
+  - first:
+      213: 974454726141185164
+    second: explosions_sheet-clouds_1_removed_black_45
+  - first:
+      213: 8892087639834635820
+    second: explosions_sheet-clouds_1_removed_black_46
+  - first:
+      213: 6762711493412203784
+    second: explosions_sheet-clouds_1_removed_black_47
+  - first:
+      213: 3304908129276644024
+    second: explosions_sheet-clouds_1_removed_black_48
+  - first:
+      213: 6098918275366729573
+    second: explosions_sheet-clouds_1_removed_black_49
+  - first:
+      213: -5006383653735366001
+    second: explosions_sheet-clouds_1_removed_black_50
+  - first:
+      213: -5613485792421992784
+    second: explosions_sheet-clouds_1_removed_black_51
+  - first:
+      213: -2004966597438288290
+    second: explosions_sheet-clouds_1_removed_black_52
+  - first:
+      213: 1820237948219553284
+    second: explosions_sheet-clouds_1_removed_black_53
+  - first:
+      213: 8851756961346980415
+    second: explosions_sheet-clouds_1_removed_black_54
+  - first:
+      213: 4768416859925475022
+    second: explosions_sheet-clouds_1_removed_black_55
+  - first:
+      213: -1152505694619483264
+    second: explosions_sheet-clouds_1_removed_black_56
+  - first:
+      213: -9019429817469700023
+    second: explosions_sheet-clouds_1_removed_black_57
+  - first:
+      213: 6264918239858163444
+    second: explosions_sheet-clouds_1_removed_black_58
+  - first:
+      213: -4330746723114475259
+    second: explosions_sheet-clouds_1_removed_black_59
+  - first:
+      213: 4940628549981682477
+    second: explosions_sheet-clouds_1_removed_black_60
+  - first:
+      213: 7136543879041637260
+    second: explosions_sheet-clouds_1_removed_black_61
+  - first:
+      213: 1174629431416271559
+    second: explosions_sheet-clouds_1_removed_black_62
+  - first:
+      213: 968646094716398539
+    second: explosions_sheet-clouds_1_removed_black_63
+  - first:
+      213: -8756184702349676396
+    second: explosions_sheet-clouds_1_removed_black_64
+  - first:
+      213: 4711670518046521515
+    second: explosions_sheet-clouds_1_removed_black_65
+  - first:
+      213: 4578747097106900173
+    second: explosions_sheet-clouds_1_removed_black_66
+  - first:
+      213: 5253728110314497326
+    second: explosions_sheet-clouds_1_removed_black_67
+  - first:
+      213: -1755547915208887082
+    second: explosions_sheet-clouds_1_removed_black_68
+  - first:
+      213: 1809617798377702823
+    second: explosions_sheet-clouds_1_removed_black_69
+  - first:
+      213: -6874493005028957599
+    second: explosions_sheet-clouds_1_removed_black_70
+  - first:
+      213: -1297481104146094554
+    second: explosions_sheet-clouds_1_removed_black_71
+  - first:
+      213: -4911504743488475850
+    second: explosions_sheet-clouds_1_removed_black_72
+  - first:
+      213: 180266655966764273
+    second: explosions_sheet-clouds_1_removed_black_73
+  - first:
+      213: -2138311003256081285
+    second: explosions_sheet-clouds_1_removed_black_74
+  - first:
+      213: 7179366696875928204
+    second: explosions_sheet-clouds_1_removed_black_75
+  - first:
+      213: -7028904919365076205
+    second: explosions_sheet-clouds_1_removed_black_76
+  - first:
+      213: 7215974483046808820
+    second: explosions_sheet-clouds_1_removed_black_77
+  - first:
+      213: 5266965192183657831
+    second: explosions_sheet-clouds_1_removed_black_78
+  - first:
+      213: -4263671093565359311
+    second: explosions_sheet-clouds_1_removed_black_79
+  - first:
+      213: -6922418325002639698
+    second: explosions_sheet-clouds_1_removed_black_80
+  - first:
+      213: 458925664444055983
+    second: explosions_sheet-clouds_1_removed_black_81
+  - first:
+      213: -7386516568918410168
+    second: explosions_sheet-clouds_1_removed_black_82
+  - first:
+      213: 6370749899977268237
+    second: explosions_sheet-clouds_1_removed_black_83
+  - first:
+      213: -8447487177333910896
+    second: explosions_sheet-clouds_1_removed_black_84
+  - first:
+      213: 5252712855206373245
+    second: explosions_sheet-clouds_1_removed_black_85
+  - first:
+      213: -7205835461659454986
+    second: explosions_sheet-clouds_1_removed_black_86
+  - first:
+      213: 7746317179500327883
+    second: explosions_sheet-clouds_1_removed_black_87
+  - first:
+      213: 4138603207365275975
+    second: explosions_sheet-clouds_1_removed_black_88
+  - first:
+      213: -7466150762028364730
+    second: explosions_sheet-clouds_1_removed_black_89
+  - first:
+      213: -5016059283352336020
+    second: explosions_sheet-clouds_1_removed_black_90
+  - first:
+      213: -6413951984128533610
+    second: explosions_sheet-clouds_1_removed_black_91
+  - first:
+      213: 4930454916797890108
+    second: explosions_sheet-clouds_1_removed_black_92
+  - first:
+      213: -646233715680944501
+    second: explosions_sheet-clouds_1_removed_black_93
+  - first:
+      213: -5119771193407115813
+    second: explosions_sheet-clouds_1_removed_black_94
+  - first:
+      213: -1627012782757018036
+    second: explosions_sheet-clouds_1_removed_black_95
+  - first:
+      213: 7648948317901397192
+    second: explosions_sheet-clouds_1_removed_black_96
+  - first:
+      213: -7934609925605229220
+    second: explosions_sheet-clouds_1_removed_black_97
+  - first:
+      213: 2963507900987855735
+    second: explosions_sheet-clouds_1_removed_black_98
+  - first:
+      213: -6181304682342404664
+    second: explosions_sheet-clouds_1_removed_black_99
+  - first:
+      213: 8004398493764961699
+    second: explosions_sheet-clouds_1_removed_black_100
+  - first:
+      213: 2078873775389086317
+    second: explosions_sheet-clouds_1_removed_black_101
+  - first:
+      213: -6768376759583985718
+    second: explosions_sheet-clouds_1_removed_black_102
+  - first:
+      213: 164865421686114500
+    second: explosions_sheet-clouds_1_removed_black_103
+  - first:
+      213: 6464150050685623579
+    second: explosions_sheet-clouds_1_removed_black_104
+  - first:
+      213: 7087156615385128165
+    second: explosions_sheet-clouds_1_removed_black_105
+  - first:
+      213: -5412914302958274075
+    second: explosions_sheet-clouds_1_removed_black_106
+  - first:
+      213: 5132958415021754770
+    second: explosions_sheet-clouds_1_removed_black_107
+  - first:
+      213: -7004187233382085183
+    second: explosions_sheet-clouds_1_removed_black_108
+  - first:
+      213: 8744226020604426867
+    second: explosions_sheet-clouds_1_removed_black_109
+  - first:
+      213: -4572259252229043261
+    second: explosions_sheet-clouds_1_removed_black_110
+  - first:
+      213: -7216028691934225937
+    second: explosions_sheet-clouds_1_removed_black_111
+  - first:
+      213: 4982054522212938232
+    second: explosions_sheet-clouds_1_removed_black_112
+  - first:
+      213: -2664075595837976025
+    second: explosions_sheet-clouds_1_removed_black_113
+  - first:
+      213: -1297473101200350504
+    second: explosions_sheet-clouds_1_removed_black_114
+  - first:
+      213: -2114176870621705378
+    second: explosions_sheet-clouds_1_removed_black_115
+  - first:
+      213: 3207574401425565170
+    second: explosions_sheet-clouds_1_removed_black_116
+  - first:
+      213: 1703707796956275627
+    second: explosions_sheet-clouds_1_removed_black_117
+  - first:
+      213: -1932698018854348902
+    second: explosions_sheet-clouds_1_removed_black_118
+  - first:
+      213: 6891857279577042752
+    second: explosions_sheet-clouds_1_removed_black_119
+  - first:
+      213: -7144801692245312079
+    second: explosions_sheet-clouds_1_removed_black_120
+  - first:
+      213: 5399764005493774536
+    second: explosions_sheet-clouds_1_removed_black_121
+  - first:
+      213: -3724424348079388502
+    second: explosions_sheet-clouds_1_removed_black_122
+  - first:
+      213: -8004317869700556960
+    second: explosions_sheet-clouds_1_removed_black_123
+  - first:
+      213: 1119398000000142234
+    second: explosions_sheet-clouds_1_removed_black_124
+  - first:
+      213: 1145926111182662421
+    second: explosions_sheet-clouds_1_removed_black_125
+  - first:
+      213: 4578606499251510005
+    second: explosions_sheet-clouds_1_removed_black_126
+  - first:
+      213: 6634089791277290529
+    second: explosions_sheet-clouds_1_removed_black_127
+  - first:
+      213: 5045488496896912955
+    second: explosions_sheet-clouds_1_removed_black_128
+  - first:
+      213: -2010865490079861258
+    second: explosions_sheet-clouds_1_removed_black_129
+  - first:
+      213: 3335410866610975375
+    second: explosions_sheet-clouds_1_removed_black_130
+  - first:
+      213: -3614792421473597883
+    second: explosions_sheet-clouds_1_removed_black_131
+  - first:
+      213: 5171914728458319116
+    second: explosions_sheet-clouds_1_removed_black_132
+  - first:
+      213: -18305773761706034
+    second: explosions_sheet-clouds_1_removed_black_133
+  - first:
+      213: -3054983171844526812
+    second: explosions_sheet-clouds_1_removed_black_134
+  - first:
+      213: 7688228293037281603
+    second: explosions_sheet-clouds_1_removed_black_135
+  - first:
+      213: -6608218553408856062
+    second: explosions_sheet-clouds_1_removed_black_136
+  - first:
+      213: -4526958190450937849
+    second: explosions_sheet-clouds_1_removed_black_137
+  - first:
+      213: 8240534842569899617
+    second: explosions_sheet-clouds_1_removed_black_138
+  - first:
+      213: -3777638102783300839
+    second: explosions_sheet-clouds_1_removed_black_139
+  - first:
+      213: 3881840098100957549
+    second: explosions_sheet-clouds_1_removed_black_140
+  - first:
+      213: -2760740378555553877
+    second: explosions_sheet-clouds_1_removed_black_141
+  - first:
+      213: -244615419617198348
+    second: explosions_sheet-clouds_1_removed_black_142
+  - first:
+      213: -8475860991374945671
+    second: explosions_sheet-clouds_1_removed_black_143
+  - first:
+      213: 6735316736530665851
+    second: explosions_sheet-clouds_1_removed_black_144
+  - first:
+      213: -868607587881974767
+    second: explosions_sheet-clouds_1_removed_black_145
+  - first:
+      213: 7895329207320282407
+    second: explosions_sheet-clouds_1_removed_black_146
+  - first:
+      213: -5847099013774148273
+    second: explosions_sheet-clouds_1_removed_black_147
+  - first:
+      213: 7838740300147500198
+    second: explosions_sheet-clouds_1_removed_black_148
+  - first:
+      213: 9087979420928689511
+    second: explosions_sheet-clouds_1_removed_black_149
+  - first:
+      213: 5940381932355741816
+    second: explosions_sheet-clouds_1_removed_black_150
+  - first:
+      213: -8238558361376995334
+    second: explosions_sheet-clouds_1_removed_black_151
+  - first:
+      213: 8728300106781931679
+    second: explosions_sheet-clouds_1_removed_black_152
+  - first:
+      213: -7026610448262412916
+    second: explosions_sheet-clouds_1_removed_black_153
+  - first:
+      213: -6989137453953446409
+    second: explosions_sheet-clouds_1_removed_black_154
+  - first:
+      213: -7589683069112674377
+    second: explosions_sheet-clouds_1_removed_black_155
+  - first:
+      213: -2447873448870012756
+    second: explosions_sheet-clouds_1_removed_black_156
+  - first:
+      213: -8274384025666335758
+    second: explosions_sheet-clouds_1_removed_black_157
+  - first:
+      213: 8774455524895088657
+    second: explosions_sheet-clouds_1_removed_black_158
+  - first:
+      213: 7390328347580632698
+    second: explosions_sheet-clouds_1_removed_black_159
+  - first:
+      213: -7868961304547144692
+    second: explosions_sheet-clouds_1_removed_black_160
+  - first:
+      213: -522385564200581192
+    second: explosions_sheet-clouds_1_removed_black_161
+  - first:
+      213: 8046290230210569828
+    second: explosions_sheet-clouds_1_removed_black_162
+  - first:
+      213: -7229459018527028964
+    second: explosions_sheet-clouds_1_removed_black_163
+  - first:
+      213: -932739534385546059
+    second: explosions_sheet-clouds_1_removed_black_164
+  - first:
+      213: 9213212949777733225
+    second: explosions_sheet-clouds_1_removed_black_165
+  - first:
+      213: 9215630799052234761
+    second: explosions_sheet-clouds_1_removed_black_166
+  - first:
+      213: 2662862003217008129
+    second: explosions_sheet-clouds_1_removed_black_167
+  - first:
+      213: -8312158224731365682
+    second: explosions_sheet-clouds_1_removed_black_168
+  - first:
+      213: -6318338019333846025
+    second: explosions_sheet-clouds_1_removed_black_169
+  - first:
+      213: 7416340936906048086
+    second: explosions_sheet-clouds_1_removed_black_170
+  - first:
+      213: 570984793429477492
+    second: explosions_sheet-clouds_1_removed_black_171
+  - first:
+      213: -7258028034271174581
+    second: explosions_sheet-clouds_1_removed_black_172
+  - first:
+      213: 5873427888288673385
+    second: explosions_sheet-clouds_1_removed_black_173
+  - first:
+      213: -4687593473021956359
+    second: explosions_sheet-clouds_1_removed_black_174
+  - first:
+      213: -8859913855685534634
+    second: explosions_sheet-clouds_1_removed_black_175
+  - first:
+      213: -4733810554903084392
+    second: explosions_sheet-clouds_1_removed_black_176
+  - first:
+      213: 3730010743242437621
+    second: explosions_sheet-clouds_1_removed_black_177
+  - first:
+      213: -7182488582808909736
+    second: explosions_sheet-clouds_1_removed_black_178
+  - first:
+      213: 7036142601414617809
+    second: explosions_sheet-clouds_1_removed_black_179
+  - first:
+      213: 3416156501615048386
+    second: explosions_sheet-clouds_1_removed_black_180
+  - first:
+      213: 7458138752168786773
+    second: explosions_sheet-clouds_1_removed_black_181
+  - first:
+      213: -5331053671670020907
+    second: explosions_sheet-clouds_1_removed_black_182
+  - first:
+      213: -1561415462133066449
+    second: explosions_sheet-clouds_1_removed_black_183
+  - first:
+      213: 186539874593453757
+    second: explosions_sheet-clouds_1_removed_black_184
+  - first:
+      213: 7549704045363198729
+    second: explosions_sheet-clouds_1_removed_black_185
+  - first:
+      213: -7223732779319285844
+    second: explosions_sheet-clouds_1_removed_black_186
+  - first:
+      213: -5904016105766567690
+    second: explosions_sheet-clouds_1_removed_black_187
+  - first:
+      213: 5973899565424821908
+    second: explosions_sheet-clouds_1_removed_black_188
+  - first:
+      213: 9024363322194887345
+    second: explosions_sheet-clouds_1_removed_black_189
+  - first:
+      213: 1942550424988182129
+    second: explosions_sheet-clouds_1_removed_black_190
+  - first:
+      213: 597524661090567157
+    second: explosions_sheet-clouds_1_removed_black_191
+  - first:
+      213: -2370252546276707903
+    second: explosions_sheet-clouds_1_removed_black_192
+  - first:
+      213: -6779211998675298053
+    second: explosions_sheet-clouds_1_removed_black_193
+  - first:
+      213: 8715900939927335072
+    second: explosions_sheet-clouds_1_removed_black_194
+  - first:
+      213: -9179603434501173431
+    second: explosions_sheet-clouds_1_removed_black_195
+  - first:
+      213: -7148557007422116071
+    second: explosions_sheet-clouds_1_removed_black_196
+  - first:
+      213: 6393661276578148333
+    second: explosions_sheet-clouds_1_removed_black_197
+  - first:
+      213: -8099384595230013598
+    second: explosions_sheet-clouds_1_removed_black_198
+  - first:
+      213: -7666441374281096732
+    second: explosions_sheet-clouds_1_removed_black_199
+  - first:
+      213: -7600342984849384440
+    second: explosions_sheet-clouds_1_removed_black_200
+  - first:
+      213: 619661047691352496
+    second: explosions_sheet-clouds_1_removed_black_201
+  - first:
+      213: 1340814327243355819
+    second: explosions_sheet-clouds_1_removed_black_202
+  - first:
+      213: 3146961822986306172
+    second: explosions_sheet-clouds_1_removed_black_203
+  - first:
+      213: -2164059477277892889
+    second: explosions_sheet-clouds_1_removed_black_204
+  - first:
+      213: -4620574093291584286
+    second: explosions_sheet-clouds_1_removed_black_205
+  - first:
+      213: -8040289872741173148
+    second: explosions_sheet-clouds_1_removed_black_206
+  - first:
+      213: -4267086592973051745
+    second: explosions_sheet-clouds_1_removed_black_207
+  - first:
+      213: -9198752646029357349
+    second: explosions_sheet-clouds_1_removed_black_208
+  - first:
+      213: -5460657208718561363
+    second: explosions_sheet-clouds_1_removed_black_209
+  - first:
+      213: 9101343496662758990
+    second: explosions_sheet-clouds_1_removed_black_210
+  - first:
+      213: 582053756037283996
+    second: explosions_sheet-clouds_1_removed_black_211
+  - first:
+      213: 5578665244771263326
+    second: explosions_sheet-clouds_1_removed_black_212
+  - first:
+      213: -7962789422181046691
+    second: explosions_sheet-clouds_1_removed_black_213
+  - first:
+      213: 251878135149226543
+    second: explosions_sheet-clouds_1_removed_black_214
+  - first:
+      213: 2268746059642941274
+    second: explosions_sheet-clouds_1_removed_black_215
+  - first:
+      213: 8583280161118717311
+    second: explosions_sheet-clouds_1_removed_black_216
+  - first:
+      213: 2168156406672468497
+    second: explosions_sheet-clouds_1_removed_black_217
+  - first:
+      213: -705690791678006770
+    second: explosions_sheet-clouds_1_removed_black_218
+  - first:
+      213: 7786579298635339947
+    second: explosions_sheet-clouds_1_removed_black_219
+  - first:
+      213: 7107697176607070237
+    second: explosions_sheet-clouds_1_removed_black_220
+  - first:
+      213: -7514965011180572530
+    second: explosions_sheet-clouds_1_removed_black_221
+  - first:
+      213: -7653031882706015354
+    second: explosions_sheet-clouds_1_removed_black_222
+  - first:
+      213: 8900240412527616183
+    second: explosions_sheet-clouds_1_removed_black_223
+  - first:
+      213: -6501744430401855620
+    second: explosions_sheet-clouds_1_removed_black_224
+  - first:
+      213: -4912596785572548981
+    second: explosions_sheet-clouds_1_removed_black_225
+  - first:
+      213: 7696920560126719703
+    second: explosions_sheet-clouds_1_removed_black_226
+  - first:
+      213: -6833878320865507643
+    second: explosions_sheet-clouds_1_removed_black_227
+  - first:
+      213: 4466248252468587295
+    second: explosions_sheet-clouds_1_removed_black_228
+  - first:
+      213: 3676790892292129586
+    second: explosions_sheet-clouds_1_removed_black_229
+  - first:
+      213: 8750417533128229196
+    second: explosions_sheet-clouds_1_removed_black_230
+  - first:
+      213: 2279290159438218544
+    second: explosions_sheet-clouds_1_removed_black_231
+  - first:
+      213: -4561093022057575928
+    second: explosions_sheet-clouds_1_removed_black_232
+  - first:
+      213: 8267278197791619745
+    second: explosions_sheet-clouds_1_removed_black_233
+  - first:
+      213: -2243765257149753458
+    second: explosions_sheet-clouds_1_removed_black_234
+  - first:
+      213: -5852996740357748001
+    second: explosions_sheet-clouds_1_removed_black_235
+  - first:
+      213: -457373139793526266
+    second: explosions_sheet-clouds_1_removed_black_236
+  - first:
+      213: 6568305798362995409
+    second: explosions_sheet-clouds_1_removed_black_237
+  - first:
+      213: -4011821368010030968
+    second: explosions_sheet-clouds_1_removed_black_238
+  - first:
+      213: 5637748738736590396
+    second: explosions_sheet-clouds_1_removed_black_239
+  - first:
+      213: 2610065378934891623
+    second: explosions_sheet-clouds_1_removed_black_240
+  - first:
+      213: -3288249231263327806
+    second: explosions_sheet-clouds_1_removed_black_241
+  - first:
+      213: -220687060757714683
+    second: explosions_sheet-clouds_1_removed_black_242
+  - first:
+      213: 8131864399900048864
+    second: explosions_sheet-clouds_1_removed_black_243
+  - first:
+      213: 2341139009804058669
+    second: explosions_sheet-clouds_1_removed_black_244
+  - first:
+      213: -8190242800075612081
+    second: explosions_sheet-clouds_1_removed_black_245
+  - first:
+      213: 864552563318244877
+    second: explosions_sheet-clouds_1_removed_black_246
+  - first:
+      213: -6184037321996286656
+    second: explosions_sheet-clouds_1_removed_black_247
+  - first:
+      213: -2538115627944881391
+    second: explosions_sheet-clouds_1_removed_black_248
+  - first:
+      213: 7355786195917399072
+    second: explosions_sheet-clouds_1_removed_black_249
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54738e871aff2554395bfb4c9652b35c
+      internalID: 8486847180410651731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42739dec9256a5641ad94de98697134e
+      internalID: -1759049842851737867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d465122f0808456409809432104a3071
+      internalID: 2139637453976623365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a56047afde79498d4dcecd4573287
+      internalID: -7403432170974784071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e714298da8f3ae243a0906eb101633ed
+      internalID: 7830180366815629180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b68f66382ab0e40be361da94689f34
+      internalID: 5624613936644758681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e292d833877849b7c937fccd2aee4
+      internalID: 1103622927125541911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d1fc21de537948b61980250395075
+      internalID: 4747662651062457647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9950b486a0e7458e7086c6309f5b1
+      internalID: 5670693943038975080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4608
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b58b01065a3bc24bb6680588a7b78da
+      internalID: -3484685823512858147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556d9846ac83e84ca41736a44d3c5b8
+      internalID: 7355550236351855949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003561114d9eecd499bd1467ac309a5f
+      internalID: -2875224919112564449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c8aa3d8c42244da440b4daf491bcd
+      internalID: -3815878621503521254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4713755dbf71d54290a4c535ed2c6aa
+      internalID: 7273297496679497168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e38847ba5ddf044bc36df4b779ba9d
+      internalID: 36888020985723670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a69317565b93ba4aba6a89f415fd8ae
+      internalID: -5550166754853923275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10576610e8b084b896c64cdb1ba7cc
+      internalID: -4153855375180340999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd376582c78864d897621c486ddc0b
+      internalID: -943407292338819796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f61141e6f05346b216c3acc1b8926
+      internalID: -3090364917524970650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4416
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60adf933067c60d48946a519f3363abf
+      internalID: -8950980441255378454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c39dbf15c35a54a90e6bc6d2b33f1c
+      internalID: 2454051909215765701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc215a7f9c5bc4b92d9e29af9ed4cb
+      internalID: 9062691856280352959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce36055aa4a834db00bfb6be841c6f
+      internalID: 5043074703910733894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39f64c83cdd704bb9298ee4918c268
+      internalID: -6251114174867180686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec76bb88c03a04c9818976ed2251b7
+      internalID: -5514493407675235192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5acbd58216d884419f4f01ec8eee316
+      internalID: -7145789597625026523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d56ff4c51d794fa678bde307b42de
+      internalID: -4390208107722598941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4fe763fb3f0244851184dc293c3e1
+      internalID: -2905158153490699416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bcd80456a91b34a8eab5dbee2920ee
+      internalID: 2314440465449560972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4224
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07829ff2ae6e724190a6eef41adb20b
+      internalID: -1927495741935792057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716bcca1c4c54944b14bf95f7e73c7a
+      internalID: -7634023881304226078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6bf2388dfd624892ce5be38327575
+      internalID: 9218956592062776351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5710e3945984549418d8b07d3eaa2787
+      internalID: -7399896551767512989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b8e054dac08f42bb951178dd9ed35
+      internalID: -1866215146870026673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e212814b868048b4c540dafefc9cb
+      internalID: -3982209921563717935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2ff239c1187f44a9b4ad695eded133
+      internalID: -1436053742789754208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ddfe3a7eb1e224694197e44de6030c
+      internalID: 5301678786034228835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a724a88f059442afb1f56de15ffd5
+      internalID: -1011859672906649698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b81d3139f24b4f9fa6bb22ba6b560
+      internalID: -7258929812123090258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4032
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cf4881429ecb42b9857c1dbb9ed83
+      internalID: -484740168395072932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3097b7e3c0c4e4db0ac7b7d28f806e
+      internalID: -6367935494277922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d86c2f676b7392448bee0a3d01f16fd
+      internalID: -611464565872332903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe236f4b1df244d94a702da5dbf91d
+      internalID: -1448190294024147211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73430711685ab704a8e3758197896bef
+      internalID: -6225580377455683898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1588fd017fb87be43848c14c0d6ab2f8
+      internalID: -6543046088654373486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd121c5137f907448d22ca5df8d366d
+      internalID: 974454726141185164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e30190749a8d9345b9665979c801ce3
+      internalID: 8892087639834635820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282139148d3f7b409627c31bf162364
+      internalID: 6762711493412203784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43521f71f47304aaffcb5d3718d640
+      internalID: 3304908129276644024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3840
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c94a547545e554bbc99f841f5ce98d
+      internalID: 6098918275366729573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c312d9e98b4849b804a1b6f1fadf2
+      internalID: -5006383653735366001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250e6d4e12000741b4075366c54146c
+      internalID: -5613485792421992784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87537e1c184101e4abbe6aea42774a22
+      internalID: -2004966597438288290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9d165b25f06a4b8e62d710aa5d7ef
+      internalID: 1820237948219553284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782df0594716b8429c143f42538a815
+      internalID: 8851756961346980415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db30bf6985bad04b8470da18e6332c0
+      internalID: 4768416859925475022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfe6c349e436964da660505f5f26c90
+      internalID: -1152505694619483264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d7cd9b148b8c74dbd283d55581749d
+      internalID: -9019429817469700023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68f1cd25678934fbaf3342f66521e1
+      internalID: 6264918239858163444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3648
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59b2422fb2b654ca7a84dac91327c0
+      internalID: -4330746723114475259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eee17e34b62bd4d8bbb7794336a3d6
+      internalID: 4940628549981682477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5895aafa946f4182cbc6714c5a7f2
+      internalID: 7136543879041637260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afcc9bf9e32ca42b94fd51dac7ed4b
+      internalID: 1174629431416271559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507bf655841944544880c40bc9541c2e
+      internalID: 968646094716398539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69f20ec9bc27d42ba0de6c463025f7
+      internalID: -8756184702349676396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025516f2ad63bab4aaa195a29e595e01
+      internalID: 4711670518046521515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf15cd33d76853488e6311de1b8a683
+      internalID: 4578747097106900173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09336413811ce243b0a289bb18c27c2
+      internalID: 5253728110314497326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a19f02cff05a48884b5cae2192a43
+      internalID: -1755547915208887082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_69
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3456
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f22f8dbbe1d534fa5c5a213142d4d9
+      internalID: 1809617798377702823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41839a2c58f51a34b8078a1d1c7cabd5
+      internalID: -6874493005028957599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b5cd2a088bcb842954c8a20140bfbb
+      internalID: -1297481104146094554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a6eb0551c888449079a3c6d959557
+      internalID: -4911504743488475850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce23224979efd42b8b734f9d712997
+      internalID: 180266655966764273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd12b7ff4f41da4197155ddddcfb2cc
+      internalID: -2138311003256081285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2730042143f7c4da15bdbad08eb8a7
+      internalID: 7179366696875928204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29f5cb728100b747a81d58c70a350ee
+      internalID: -7028904919365076205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_77
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb02a70c71ddc408fbf11b52ea9ffa
+      internalID: 7215974483046808820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eceb87e8301da4aabd07720fc5e842
+      internalID: 5266965192183657831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_79
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3264
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc7d9f0458a4642965487a4ce62981
+      internalID: -4263671093565359311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac81fc80cf1fee4faccb2dadaf9827d
+      internalID: -6922418325002639698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532541d4dfbf7f14cb34248f0d319954
+      internalID: 458925664444055983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e382318cdc2754f96662802d14f241
+      internalID: -7386516568918410168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0eb8c6610e24f4eabe9109ceb0beb2
+      internalID: 6370749899977268237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ff58f845941a4a9a3b67b50ee4a30
+      internalID: -8447487177333910896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_85
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172ec3b7cf4f1347bc1bd2021f7eb4f
+      internalID: 5252712855206373245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_86
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c982a727f881f4b9aeda46a7dfb318
+      internalID: -7205835461659454986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_87
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d315e81b8d62a4ea1da339ed0131dd
+      internalID: 7746317179500327883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_88
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af615c7b37d4348bf243014c6d6ce5
+      internalID: 4138603207365275975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_89
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3072
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b6772812681244964ca19675144b7
+      internalID: -7466150762028364730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38029fb009a606408e5c4dc80b6ac4d
+      internalID: -5016059283352336020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be16820dd16abc489ffff5ff432b17a
+      internalID: -6413951984128533610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c408be3fcd7c4baea54b606886ce2
+      internalID: 4930454916797890108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9febf41fc532a489048ce0293bcdcd
+      internalID: -646233715680944501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9a9b18ce7bd745991583f833da09d
+      internalID: -5119771193407115813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d688d1285e8c9c40858e762ad2f6863
+      internalID: -1627012782757018036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_96
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4962edc04514a74fa74580d0106824f
+      internalID: 7648948317901397192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_97
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a444c309bb57f458fda6af3efe6e21
+      internalID: -7934609925605229220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_98
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3570ab86517dc747ae8e4e55c3f24bc
+      internalID: 2963507900987855735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_99
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2880
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d90b0cb2b4a34c854275401b43315
+      internalID: -6181304682342404664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2b023d6e849c4dbaadca4ff960579
+      internalID: 8004398493764961699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b88da83b876304986708206c30c002
+      internalID: 2078873775389086317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c241be2252f966644b9c463643070473
+      internalID: -6768376759583985718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52537c732660b49987443bb2096f2c
+      internalID: 164865421686114500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3c65a602c0194992fbaf224bd694d
+      internalID: 6464150050685623579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_105
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d4bf10ac62a0449bdd012a3879298
+      internalID: 7087156615385128165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_106
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1458fdb92b024504b908d871ae1215ac
+      internalID: -5412914302958274075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_107
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f6dda1bff17674ab0dd9eb4c615597
+      internalID: 5132958415021754770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b58fe9586a91498a1458434d6fcb0
+      internalID: -7004187233382085183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_109
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2688
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c529fe71a8dd47bebf391f2a2dbb3
+      internalID: 8744226020604426867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5918ba23336bf949b48d6e35bad623c
+      internalID: -4572259252229043261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770a688c10f56d642aaf06ca8e4867b1
+      internalID: -7216028691934225937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_112
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4cc5c5394d7144980c970dd7825b39
+      internalID: 4982054522212938232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd295f3fe80624594c725d62798d25
+      internalID: -2664075595837976025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc25efae559b2484c93bd00d376d54b0
+      internalID: -1297473101200350504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74db963e5376b69428c3e4d0259ee68a
+      internalID: -2114176870621705378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6c8f713c8dfc44951b02ab6963150
+      internalID: 3207574401425565170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_117
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc0f38ad8b0974cbe4e58e871f2018
+      internalID: 1703707796956275627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8de875f1eead0409fbd64ec0198e1a
+      internalID: -1932698018854348902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_119
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2496
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68bff26ef7649842b4231df35b4709b
+      internalID: 6891857279577042752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03cbf54f98d544a8bae21df7edfaf5
+      internalID: -7144801692245312079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2857cb24abad5774781e0f4475842d14
+      internalID: 5399764005493774536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a442a65ed9fb40bee910e729e7d50
+      internalID: -3724424348079388502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_123
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde68c4ee3d1af24a847efbbc881e49e
+      internalID: -8004317869700556960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327aa3c5e083d0c47821b4e0517765aa
+      internalID: 1119398000000142234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c891527e2c4b4984e7411396aa271
+      internalID: 1145926111182662421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_126
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4364d634612cf244fa40b2766c5b5068
+      internalID: 4578606499251510005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_127
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa431d585039ae49a4843db4aa6f24f
+      internalID: 6634089791277290529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_128
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88237563a62f37d49a3e3783dfe48a80
+      internalID: 5045488496896912955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_129
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2304
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2d3305a49ec34b99dd1943daa66c2
+      internalID: -2010865490079861258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97708b7bcfe2045bd37301c2070240
+      internalID: 3335410866610975375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627a67a1aec186459c6ab6e9414ebd4
+      internalID: -3614792421473597883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd9cbd597168b438e5e9d94f872798
+      internalID: 5171914728458319116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_133
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18898f3f72b47924fbbd1814a191a548
+      internalID: -18305773761706034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06748edfa85ffa48bfb9c58ab22323c
+      internalID: -3054983171844526812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_135
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ea769b00605134791c18a248806b22
+      internalID: 7688228293037281603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_136
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b13eb88285e074d83e97de8dac976a
+      internalID: -6608218553408856062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_137
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5a0ca5870490c4cbada7ef27f589fc
+      internalID: -4526958190450937849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d0259dc0a0a944c9cb107f3b2b12ae
+      internalID: 8240534842569899617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_139
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2112
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abda193605c0544e92f1a0d2ba85930
+      internalID: -3777638102783300839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed06fe87935e34095f33d476956bd7
+      internalID: 3881840098100957549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a12e99fe705048aa6e154cf78a2ba
+      internalID: -2760740378555553877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ada7fc322af2f4a84379e2b783c40d
+      internalID: -244615419617198348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231fd3d7fe331a4292b9cb39e10ad4f
+      internalID: -8475860991374945671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_144
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652e9168dd7bee4e903eba9e99e4bd2
+      internalID: 6735316736530665851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_145
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d9568e9694b748aaef34aec18bfae
+      internalID: -868607587881974767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_146
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212c8464f219ba47b4b29c3893e7079
+      internalID: 7895329207320282407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_147
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba729f52500208f4c81062b87d79fb8a
+      internalID: -5847099013774148273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_148
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f268ddb5ec3440bb5263d4d9e5e9d
+      internalID: 7838740300147500198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_149
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1920
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e150dc4014573247975b7ce4a6b1190
+      internalID: 9087979420928689511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eef13f3513d2e468b9451c9a892254
+      internalID: 5940381932355741816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0940690049ef044782de5e2be095636
+      internalID: -8238558361376995334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd81c46363b00f44bc962f371b572fa
+      internalID: 8728300106781931679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1bcdf4b863fda44a9eed4a3bc02d57
+      internalID: -7026610448262412916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_154
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc65ea1e18e37514b97dfae77cc652f5
+      internalID: -6989137453953446409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_155
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104d269b4e0b454eb728b3eda1dd205
+      internalID: -7589683069112674377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_156
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a663966ce0389144b040821bc06f2d7
+      internalID: -2447873448870012756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_157
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25820180ef2a9554a86da10cd021c865
+      internalID: -8274384025666335758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_158
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1bb0e71a98cce4fa56b14b1e920e3b
+      internalID: 8774455524895088657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_159
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1728
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee8f2701eb9a2b4b9d1f6819d044a9e
+      internalID: 7390328347580632698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936bd4cd878400a4495d60678d262916
+      internalID: -7868961304547144692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6e7230e1cadc40b6bb7e9bd202e9e
+      internalID: -522385564200581192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8880954b9fe6d04c8a171fc90a2de57
+      internalID: 8046290230210569828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a7a2092ca11c04089b5815221db458
+      internalID: -7229459018527028964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_164
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe014c3bd2a565f459edb276846d2850
+      internalID: -932739534385546059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75ea88a159cab54bad62d54c4f721c8
+      internalID: 9213212949777733225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_166
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f7d431f63d0e4c9247a59ee5e2dea
+      internalID: 9215630799052234761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_167
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be815efde685d0489eae272c014a725
+      internalID: 2662862003217008129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_168
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fab6fbc9258b34f9c647582d6a821f
+      internalID: -8312158224731365682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_169
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1536
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264b60c77fdad947b264bb09474dc7b
+      internalID: -6318338019333846025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552151594f99d2a40b82ab60649b97ad
+      internalID: 7416340936906048086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37060302e9b17424d9fde5fbfb7883e3
+      internalID: 570984793429477492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a6d08a7d281949847c811635a2e5c
+      internalID: -7258028034271174581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f3c7ed03a69343b1deb7adff7b800
+      internalID: 5873427888288673385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6b5d73c003f543b29068b0f5dad3d
+      internalID: -4687593473021956359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae40cfd598d51d74186ba26f86ebed57
+      internalID: -8859913855685534634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_176
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f73cc4ed226347988b82765382745
+      internalID: -4733810554903084392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_177
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e0c58ad68a32740a24ff2fdae77e99
+      internalID: 3730010743242437621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_178
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b4d711282f6c4d994f82e17e548e1
+      internalID: -7182488582808909736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_179
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e116b27f3e329c04e948f6c91d7d6b87
+      internalID: 7036142601414617809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933ea6809c5f1f4fa282edb7b4985a9
+      internalID: 3416156501615048386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c1fbd1cf46bc409bb402a80869426
+      internalID: 7458138752168786773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dbb761e4c59c943b7e794102b4d647
+      internalID: -5331053671670020907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf71f82a51e5de47ad77a0dd6c1b072
+      internalID: -1561415462133066449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_184
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd55221efadf146a228e7f1b7c0cf5
+      internalID: 186539874593453757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_185
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33b5fe537417d4b8fb15b8b20146f3
+      internalID: 7549704045363198729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_186
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13feb29147cdfec41b4bc91a9498d55b
+      internalID: -7223732779319285844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_187
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b1dd9e730e8841b323860d282c238
+      internalID: -5904016105766567690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699320e18f5411c48a89ab3a410344cf
+      internalID: 5973899565424821908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_189
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1152
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00790db8868aad7429fbec52ec6da09e
+      internalID: 9024363322194887345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826ec168adb0ba45a3d74c8704d5ac0
+      internalID: 1942550424988182129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_191
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c20a8522a1854d8ae4a0f15f683bb
+      internalID: 597524661090567157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_192
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64787b8aaed95409b648c4a5c0d327
+      internalID: -2370252546276707903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef1602c52ee604e9431fcf0ce1dc59
+      internalID: -6779211998675298053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_194
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2f2a4316d35e428c66222114fc7be
+      internalID: 8715900939927335072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_195
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04396ec5881254795b3ac0a122a356
+      internalID: -9179603434501173431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_196
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb8d4af83a9144281b1cf00f14e621
+      internalID: -7148557007422116071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_197
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acda79114b20fd4294b5867d12d6014
+      internalID: 6393661276578148333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_198
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008527765e0d574985174903af4bee2
+      internalID: -8099384595230013598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_199
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec88ecff6846c4e8aa72ed41d698b5
+      internalID: -7666441374281096732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf3f6832a18134fb522db7795b2dd7
+      internalID: -7600342984849384440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71415d05082b18a419b835dc9b698b8f
+      internalID: 619661047691352496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96d9894af315b40849b164a5b4c1c1
+      internalID: 1340814327243355819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966de81616e4bc04ca0a20eeffa19568
+      internalID: 3146961822986306172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_204
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9d5df7b96dc0489216924921977b9
+      internalID: -2164059477277892889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_205
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581e6d60a59e8347b608036b386a781
+      internalID: -4620574093291584286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_206
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c5be70dbf4f74aab17b08606917d9
+      internalID: -8040289872741173148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_207
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed903cf2438ee4983d81adb603d5e0
+      internalID: -4267086592973051745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_208
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bade4375afec042aba4cfad0f9b06a
+      internalID: -9198752646029357349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_209
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a2f0ab11ef7f14e95527f863cee7a6
+      internalID: -5460657208718561363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0cb0edea5e3d40b812cce9836774f
+      internalID: 9101343496662758990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_211
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c1ffe2c10237459bb39bb1ffd336a
+      internalID: 582053756037283996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_212
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82534f5828dc5c947bcde261dde8467f
+      internalID: 5578665244771263326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_213
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94322cf7497ece1418afd68e1aec5ff4
+      internalID: -7962789422181046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_214
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6285621c11553f40979ec9f56f1820c
+      internalID: 251878135149226543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_215
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2bf0d5048dc645a66d421560d0e17
+      internalID: 2268746059642941274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_216
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab424757b99635d4cb35fc129eb70754
+      internalID: 8583280161118717311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_217
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8339f8f4074443be5c2ae476222b2
+      internalID: 2168156406672468497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_218
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5746216ba486e54bba5223313faadc8
+      internalID: -705690791678006770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_219
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89b4afb60c49e45b6fe2274fa3903f
+      internalID: 7786579298635339947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1c92f1c36f4db42b3cafa44b0b9791
+      internalID: 7107697176607070237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e469159e1aa2f5d448796575db1ba5fa
+      internalID: -7514965011180572530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0ed4ae5635054488eec823a3b70779
+      internalID: -7653031882706015354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_223
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60b5ab53098044894b91f9e6663986
+      internalID: 8900240412527616183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_224
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cc0b4fcb3e014984e5ddfa34fa3d7
+      internalID: -6501744430401855620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_225
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c759ed763d2eba40b2c20bd1bcab67b
+      internalID: -4912596785572548981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_226
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ba4a38e1777f46adab22504089bad
+      internalID: 7696920560126719703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_227
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daae7b2d90546c4781b0dbab3938e0f
+      internalID: -6833878320865507643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_228
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3895f8205cb2944ea9238c7fdeb913e
+      internalID: 4466248252468587295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_229
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b16a2450b01746ba14d80c059ef30
+      internalID: 3676790892292129586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64a7de527b1b124da78d2ced99c9c06
+      internalID: 8750417533128229196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_231
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6de35a30129804ba28c2a8bd10140f
+      internalID: 2279290159438218544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8554b73a0bec240afeb1c0493f95e7
+      internalID: -4561093022057575928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53605972f715524e80ba91c219ad422
+      internalID: 8267278197791619745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_234
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae78019dd1e014da1584dd92042cc7
+      internalID: -2243765257149753458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_235
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24fdbb941004442bbdf32981ad0972
+      internalID: -5852996740357748001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_236
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caea765f650de94d9b16ffa64666707
+      internalID: -457373139793526266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_237
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47389f7861629da4c862b759e64106c3
+      internalID: 6568305798362995409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_238
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcfdafea87a28446aaa375303e3d533
+      internalID: -4011821368010030968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_239
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8172ef54fc81e4eb00d69ebb08ad13
+      internalID: 5637748738736590396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52ae5ae870d4845a6d3253018a895b
+      internalID: 2610065378934891623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_241
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2b11743b2b7d44a134cb239fb9869
+      internalID: -3288249231263327806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e41342b3ce4c3f45a06eec188d611f9
+      internalID: -220687060757714683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_243
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984581a3dde64d4798ace58d1441cf4
+      internalID: 8131864399900048864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_244
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456c285b4d7a82408077884d16dbdb0
+      internalID: 2341139009804058669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_245
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3738453a80c0f42b3c34ea66a4dda0
+      internalID: -8190242800075612081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_246
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccefa0ac4874664f852f1b81f5054dc
+      internalID: 864552563318244877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_247
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9eee5f023bf674d93bb1e6e202dadf
+      internalID: -6184037321996286656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_248
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01848b2dd6e77a4483920f42d9ee622
+      internalID: -2538115627944881391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosions_sheet-clouds_1_removed_black_249
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c56d65b4cdc28469094b90d9797121
+      internalID: 7355786195917399072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
