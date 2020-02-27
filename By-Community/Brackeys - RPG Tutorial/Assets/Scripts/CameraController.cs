@@ -2,19 +2,19 @@
 
 public class CameraController : MonoBehaviour
 {
-    [SerializeField] private Transform target;
-
-    [SerializeField] private Vector3 offset;
-    [SerializeField] private float zoomSpeed = 4f;
-    [SerializeField] private float minZoom = 5f;
-    [SerializeField] private float maxZoom = 15f;
-
-    [SerializeField] private float pitch = 2f;
-
-    [SerializeField] private float currentZoom = 10f;
+    public Transform target;
     
-    [SerializeField] private float yawSpeed = 100f;
-    [SerializeField] private float currentYaw = 0f;
+    public Vector3 offset;
+    public float zoomSpeed = 4f;
+    public float minZoom = 5f;
+    public float maxZoom = 15f;
+    
+    public float pitch = 2f;
+    
+    public float currentZoom = 10f;
+    
+    public float yawSpeed = 100f;
+    public float currentYaw = 0f;
     
     private void Update()
     {
