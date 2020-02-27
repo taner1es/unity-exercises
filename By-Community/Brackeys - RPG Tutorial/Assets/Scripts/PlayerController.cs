@@ -1,11 +1,13 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 [RequireComponent(typeof(PlayerMotor))]
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private Camera cam;
-    [SerializeField] private LayerMask movementMask;
-    
+    public Camera cam;
+    public LayerMask movementMask;
+    public Interactable focus;
+
     private PlayerMotor motor;
 
     private void Start()
@@ -24,21 +26,50 @@ public class PlayerController : MonoBehaviour
             if(Physics.Raycast(ray, out hit, 100, movementMask))
             {
                 motor.MoveToPoint(hit.point);
+
+                RemoveFocus();
             }
 
         }
 
         // Right mouse click event
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(1))
         {
             Ray ray = cam.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
 
-            if (Physics.Raycast(ray, out hit, 100, movementMask))
+            if (Physics.Raycast(ray, out hit, 100))
             {
-                   
+                Interactable interactable = hit.collider.GetComponent<Interactable>();
+                if(interactable != null)
+                {
+                    SetFocus(interactable);
+                }
             }
 
         }
+    }
+
+    private void RemoveFocus()
+    {
+        if(focus != null)
+            focus.OnDefocused();
+
+        focus = null;
+        motor.StopFollowingTarget();
+    }
+
+    private void SetFocus(Interactable newFocus)
+    {
+        if(newFocus != focus)
+        {
+            if(focus != null)
+                focus.OnDefocused();
+
+            focus = newFocus;
+            motor.FollowTarget(focus);
+        }
+
+        newFocus.OnFocused(transform);
     }
 }
