@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine.EventSystems;
 using UnityEngine;
 
 [RequireComponent(typeof(PlayerMotor))]
@@ -17,6 +18,10 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        // Checks if clicking onto UI element
+        if (EventSystem.current.IsPointerOverGameObject())
+            return;
+
         // Left mouse click event
         if (Input.GetMouseButtonDown(0))
         {
