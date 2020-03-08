@@ -31,12 +31,12 @@ public class PlayerMotor : MonoBehaviour
         transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * 5f);
     }
 
-    internal void MoveToPoint(Vector3 point)
+    public void MoveToPoint(Vector3 point)
     {
         agent.SetDestination(point);
     }
 
-    internal void FollowTarget(Interactable newTarget)
+    public void FollowTarget(Interactable newTarget)
     {
         agent.stoppingDistance = newTarget.radius * .8f;
         agent.updateRotation = false;
@@ -44,7 +44,7 @@ public class PlayerMotor : MonoBehaviour
         target = newTarget.interactionTransform;
     }
 
-    internal void StopFollowingTarget()
+    public void StopFollowingTarget()
     {
         agent.stoppingDistance = 0f;
         agent.updateRotation = true;

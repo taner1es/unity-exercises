@@ -15,9 +15,9 @@ public class Interactable : MonoBehaviour
     {
         if (isFocus && !hasInteracted)
         {
-            float distance = Vector3.Distance(player.position, interactionTransform.position); 
+            float distance = Vector3.Distance(player.position, interactionTransform.position);
 
-            if(distance <= radius)
+            if (distance <= radius)
             {
                 Interact();
                 hasInteracted = true;
@@ -25,19 +25,19 @@ public class Interactable : MonoBehaviour
         }
     }
 
-    internal virtual void Interact()
+    public virtual void Interact()
     {
         Debug.Log("Interacting with: " + transform.name);
     }
 
-    internal void OnFocused(Transform playerTransform)
+    public void OnFocused(Transform playerTransform)
     {
         isFocus = true;
         player = playerTransform;
         hasInteracted = false;
     }
 
-    internal void OnDefocused()
+    public void OnDefocused()
     {
         isFocus = false;
         player = null;
