@@ -4,7 +4,7 @@ public class ItemPickUp : Interactable
 {
     public Item item;
 
-    internal override void Interact()
+    public override void Interact()
     {
         base.Interact();
 

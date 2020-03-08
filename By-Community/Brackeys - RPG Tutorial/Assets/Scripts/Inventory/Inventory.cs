@@ -24,7 +24,7 @@ public class Inventory : MonoBehaviour
     public List<Item> items = new List<Item>();
     public int space = 20;
 
-    internal bool Add(Item item)
+    public bool Add(Item item)
     {
         if (!item.isDefaultItem)
         {
@@ -43,7 +43,7 @@ public class Inventory : MonoBehaviour
         return true;
     }
 
-    internal void Remove(Item item)
+    public void Remove(Item item)
     {
         items.Remove(item);
 
