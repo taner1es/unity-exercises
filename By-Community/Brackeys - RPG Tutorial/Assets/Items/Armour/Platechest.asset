@@ -18,5 +18,5 @@ MonoBehaviour:
   equipSlot: 1
   mesh: {fileID: 4907031478444041446, guid: 12b9d1db303642e49b94e12ba5132c90, type: 3}
   coveredMeshRegions: 0100000002000000
-  armorModifier: 0
-  damageModifier: 3
+  armorModifier: 3
+  damageModifier: 0

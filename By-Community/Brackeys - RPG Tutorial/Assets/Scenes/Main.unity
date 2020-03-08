@@ -1498,6 +1498,7 @@ GameObject:
   - component: {fileID: 388261316}
   - component: {fileID: 388261317}
   - component: {fileID: 388261318}
+  - component: {fileID: 388261319}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1613,6 +1614,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c2be0c3c944e1040829c0adef13d429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &388261319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388261311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5f04eb158e3e45459c30c3b37bdf568, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage:
+    baseValue: 0
+  armour:
+    baseValue: 0
 --- !u!4 &392314576 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4087213181031252, guid: 1d4e8fdf08b2060448400dd060a320a5,
@@ -2397,15 +2414,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd4b5db5f48124a5bba473b348e43b25, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.13
+      value: -4.76
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd4b5db5f48124a5bba473b348e43b25, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.56
+      value: 0.23
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd4b5db5f48124a5bba473b348e43b25, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.67
+      value: -5.92
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bd4b5db5f48124a5bba473b348e43b25, type: 3}
       propertyPath: m_LocalRotation.x
