@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 311660a70a23f304cb8b09cfe04feea0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fpsCam: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - impactEffect: {fileID: 9090598420650424745, guid: 0847dae2a328e6641ab22eced25eb681,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
